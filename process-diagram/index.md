@@ -4,13 +4,13 @@
 
 ## 范文
 
-The first flow diagram illustrates the process of glass container production, and the second diagram shows steps in the process of recycling used glass.
+The first flow diagram illustrates the <span style="color:red">process</span> of glass container <span style="color:red">production</span>, and the second diagram shows <span style="color:red">steps in the process</span> of recycling used glass.
 
-We can see that glass is made using three main raw materials, and that the manufacturing process consists of four distinct stages. lt requires five steps to turn used glass into new glass products.
+We can see that glass is made using three main <span style="color:red">raw materials</span>, and that the <span style="color:red">manufacturing process</span> <span style="color:red">consists of four distinct stages</span>. <span style="color:red">It requires five steps</span> to <span style="color:red">turn used glass into new</span> glass products.
 
-At the first stage in the production of glass, sand, soda ash, limestone and other chemicals are mixed together. Next, this mixture is heated in a glass furnace at approximately 1500°C to produce molten glass. The molten glass can then be shaped, by blowing, to create the end products,namely glass containers.
+<span style="color:red">At the first stage</span> in the <span style="color:red">production</span> of glass, sand, soda ash, limestone and other chemicals <span style="color:red">are mixed</span> together. <span style="color:red">Next</span>, this <span style="color:red">mixture</span> <span style="color:red">is heated</span> in a glass furnace at approximately 1500°C to produce molten glass. The molten glass can then <span style="color:red">be shaped</span>, by blowing, to create the <span style="color:red">end products</span>, namely glass containers.
 
-Glass recycling begins with the collection of used glass products. The collected glass is sorted according to its colour, and then washed in order to remove any impurities. At the fourth stage of recycling, the glass is crushed and melted, and the resulting molten glass can finally be moulded to create new items.
+Glass recycling <span style="color:red">begins with</span> the <span style="color:red">collection</span> of used glass products. The <span style="color:red">collected</span> glass <span style="color:red">is sorted according to</span> its colour, and then washed in order to remove any impurities. <span style="color:red">At the fourth stage</span> of recycling, the glass <span style="color:red">is crushed and melted</span>, and the <span style="color:red">resulting molten glass</span> can finally <span style="color:red">be moulded to create</span> new items.
 
 ## 重点词汇
 
@@ -29,3 +29,5 @@ Glass recycling begins with the collection of used glass products. The collected
 | are mixed → this mixture                    | 被混合 → 这种混合物     |
 | collection → the collected glass            | 收集 → 收集到的玻璃     |
 | is melted → the resulting molten glass      | 被熔化 → 得到的熔融玻璃 |
+
+[返回目录](../README.md)

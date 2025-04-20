@@ -2,13 +2,15 @@
 
 ![不同图表](./index.png)
 
-The bar chart compares the numbers of males and females who took four different evening classes in 2009, and the pie chart shows the age profile of these attendees.
+## 范文
 
-It is clear that significantly more women than men attended evening classes at the education centre. We can also see that evening courses were much more popular among older adults.
+The bar chart compares the numbers of <span style="color:red">males and females</span> who <span style="color:red">took</span> four different evening classes in 2009, and the pie chart shows the age profile of these <span style="color:red">attendees</span>.
 
-According to the bar chart, drama, painting and language courses all attracted more women than men to the education centre in 2009. Language classes had the highest number of participants overall, with 40 female and 20 male students, while painting was a popular choice among both genders, attracting 30 female and 25 male attendees. The only course with a higher number of males was sculpture, but this course was taken by a mere 15 people in total.
+It is clear that <span style="color:red">significantly more</span> women than men <span style="color:red">attended</span> evening classes at the education centre. We can also see that evening courses were much more popular among older adults.
 
-Looking at the age profile pie chart, we can see that the majority of people attending evening lessons were over 40 years of age. To be precise, 42% of them were aged 50 or more, and 26% were aged between 40 and 49. Younger adults were in the minority, with only 11% of students aged 20 to29, and only 5% aged under 20.
+<span style="color:red">According to the bar chart</span>, drama, painting and language courses all <span style="color:red">attracted more women</span> than men to the education centre in 2009. Language classes <span style="color:red">had the highest number of participants</span> overall, with 40 female and 20 male <span style="color:red">students</span>, while painting was <span style="color:red">a popular choice among both genders</span>, attracting 30 female and 25 male attendees. The only course with a <span style="color:red">higher</span> number of males was sculpture, but this course <span style="color:red">was taken by a mere 15 people</span> in total.
+
+<span style="color:red">Looking at the age profile pie chart</span>, we can see that <span style="color:red">the majority of people</span> attending evening lessons were over 40 years of age. <span style="color:red">To be precise</span>, 42% of them were aged 50 or more, and 26% were aged between 40 and 49. Younger adults <span style="color:red">were in the minority</span>, with only 11% of students aged 20 to 29, and only 5% aged under 20.
 
 ## 重点词汇
 
@@ -27,3 +29,6 @@ Looking at the age profile pie chart, we can see that the majority of people att
 | the majority of people                  | 大多数人            |
 | were in the minority                    | 属于少数            |
 | To be precise,                          | 准确地说，          |
+
+
+[返回目录](../README.md)

@@ -4,17 +4,17 @@
 
 ## 范文
 
-The two pictures compare the current layout of the ground floor of a house with a plan to redesign the same living space.
+The two pictures compare the <span style="color:red">current layout</span> of the ground floor of a house with a <span style="color:red">plan to redesign</span> the same <span style="color:red">living space</span>.
 
 <!-- 一个变化，一个没有变化 -->
 
-We can see that the new design proposal involves making a number of changes to the ground floor of the house, mainly in the central hall area. There are no plans to change external walls or entrances。
+We can see that the <span style="color:red">design proposal</span> involves making a number of changes to the ground floor of the house, mainly in the <span style="color:red">central hall area</span>. There are no plans to change external walls or entrances.
 
 <!-- 选取一半作比较 -->
 
-The most noticeable change from the existing to the proposed floor plan is that there will no longer be a separate hall area when the building work has been done. This will be achieved by removing the internal wall and door between the hall and living room, along with the current staircase and under-stair storage cupboard. With no separate hall area, the proposed living room will also contain the staircase to the first floor.
+The most noticeable change from the <span style="color:red">existing</span> to the <span style="color:red">proposed</span> floor plan is that <span style="color:red">there will no longer be</span> a separate hall area <span style="color:red">when the building work has been done</span>. <span style="color:red">This will be achieved by removing</span> the internal wall and door between the hall and living room, along with the current <span style="color:red">staircase</span> and <span style="color:red">under-stair storage cupboard</span>. With no separate hall area, the proposed living room <span style="color:red">will also contain</span> the <span style="color:red">staircase</span> to the first floor.
 
-To replace the current straight staircase, a new set of winding stairs will be installed in the corner of the living room. The internal door between the hall and kitchen will also be replaced with double doors connecting the kitchen with the new living room. Finally, the planned building work will also include the installation of some kitchen furniture.
+To replace the current straight <span style="color:red">staircase</span>, <span style="color:red">a new set of winding stairs</span> <span style="color:red">will be installed</span> in the corner of the living room. The internal door between the hall and kitchen <span style="color:red">will also be replaced</span> with double doors connecting the kitchen with the new living room. Finally, the planned building work will also include<span style="color:red">the installation of some kitchen furniture</span>.
 
 ## 重点词汇
 
@@ -33,3 +33,5 @@ To replace the current straight staircase, a new set of winding stairs will be i
 | under-stair storage cupboard               | 楼梯下储物柜               |
 | a new set of winding stairs                | 一组新的旋转楼梯           |
 | the installation of some kitchen furniture | 安装一些厨房家具           |
+
+[返回目录](../README.md)
