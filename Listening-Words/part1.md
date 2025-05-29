@@ -1,0 +1,7 @@
+caravan
+navigation
+demonstration
+canndles
+canteen
+intermediate
+vegetarian  campsitle
